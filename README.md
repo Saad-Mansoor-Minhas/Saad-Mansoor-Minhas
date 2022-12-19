@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saad-Mansoor-Minhas
 - 👀 I’m interested in Cyber Security and Coding 
 - 🌱 I’m currently doing my Bachelors in Computer Science 
-- 💞️ I’m also in a journey of learning Pen testing and would love to collaborate
+- 💞️ I’m also in a journey of learning Pentesting and would love to collaborate
       with people from cyber security 
 
 <!---
