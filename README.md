@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Saad Mansoor Minhas
+- 👋 Hi, I’m Saad Mansoor Minhas
 - 👀 I’m interested in Cyber Security and Cloud Computing
 - 🌱 I’m currently doing my Bachelors in Computer Science 
 - 💞️ I’m also in a journey of learning Pentesting and would love to collaborate
