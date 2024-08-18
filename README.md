@@ -1,13 +1,13 @@
 [![Masterhead](https://i.pinimg.com/originals/77/c7/52/77c752debf12f74590b14a5ae6d4448a.gif)](https://github.com/saad-mansoor-minhas)
 <h1 align="center">Hi 👋, I'm Saad Mansoor Minhas</h1>
-<h3 align="center">A passionate developer and an aspiring cloud engineer from Pakistan</h3>
+<h3 align="center">A passionate developer and an aspiring DevOps engineer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saad-mansoor-minhas&label=Profile%20views&color=0e75b6&style=flat" alt="saad-mansoor-minhas" /> </p>
 
-- 🔭 I’m currently working on **Pktour (A tour guide website)**
+- 🔭 I’m currently working on **Personal projects (to build my skills)**
 
-- 🌱 I’m currently learning **development with .Net , cloud computing (AWS)**
+- 🌱 I’m currently working with **devops tools like jenkins, kubernetes, terraform, docker, grafana, prometheus and cloud platforms**
 
 - 📫 How to reach me **saadr8840@gmail.com**
 
