@@ -1,6 +1,6 @@
 [![Masterhead](https://i.pinimg.com/originals/77/c7/52/77c752debf12f74590b14a5ae6d4448a.gif)](https://github.com/saad-mansoor-minhas)
 <h1 align="center">Hi 👋, I'm Saad Mansoor Minhas</h1>
-<h3 align="center">A passionate developer and an aspiring DevOps engineer from Pakistan</h3>
+<h3 align="center">A passionate DevOps engineer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://gomycode.com/ng/what-is-devops/" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saad-mansoor-minhas&label=Profile%20views&color=0e75b6&style=flat" alt="saad-mansoor-minhas" /> </p>
