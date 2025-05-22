@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saad-mansoor-minhas&label=Profile%20views&color=0e75b6&style=flat" alt="saad-mansoor-minhas" /> </p>
 
-- 🔭 I’m currently working as a **Junior DevOps Engineer at Cyberoide**
+- 🔭 I’m currently working as a **Junior DevOps Engineer**
 
 - 🌱 I’m currently working with **devops tools like jenkins, kubernetes, terraform, docker, grafana, prometheus and AWS**
 
